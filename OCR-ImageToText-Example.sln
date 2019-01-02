@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCR-ImageToText-Example", "OCR-ImageToText-Example\OCR-ImageToText-Example.csproj", "{4AE4B7FE-91B1-456C-A743-892C8F5A437E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AE4B7FE-91B1-456C-A743-892C8F5A437E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AE4B7FE-91B1-456C-A743-892C8F5A437E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AE4B7FE-91B1-456C-A743-892C8F5A437E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AE4B7FE-91B1-456C-A743-892C8F5A437E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C7C4E43-8A7B-41C4-8A2E-B019E9459D14}
+	EndGlobalSection
+EndGlobal
