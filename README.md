@@ -1,5 +1,5 @@
 ## OCR-ImageToText-Example ##
-<a target="_blank" href="LICENSE.md"><img src="https://img.shields.io/badge/licence-MIT-brightgreen.svg" alt="license : MIT"></a>
+<a target="_blank" href="LICENSE"><img src="https://img.shields.io/badge/licence-MIT-brightgreen.svg" alt="license : MIT"></a>
 <a target="_blank" href="https://www.cmarix.com/aspdotnet-web-application-development-services.html"><img src="https://img.shields.io/badge/aspdotnet-4.0%2B-blue.svg" alt="aspdotnet : 4.0+"></a>
 
 This repository contains sample window applicaiton in c# to read the image form the URL and convert Image to text using IronOCR. [https://ironsoftware.com/csharp/ocr/#autoocr](https://ironsoftware.com/csharp/ocr/#autoocr "https://ironsoftware.com/csharp/ocr/#autoocr")
@@ -38,7 +38,7 @@ P.S. We’re going to publish more awesomeness examples on third party libaries,
 
 	MIT License
 	
-	Copyright (c) 2019 CMARIX TechnoLabs
+	Copyright © 2019 CMARIX TechnoLabs
 	
 	Permission is hereby granted, free of charge, to any person obtaining a copy
 	of this software and associated documentation files (the "Software"), to deal
@@ -57,3 +57,4 @@ P.S. We’re going to publish more awesomeness examples on third party libaries,
 	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 	SOFTWARE.
+
